@@ -1,0 +1,12 @@
+{
+    "git_commit": "92338b9",
+    "command": "centermax.py -f configs/JS633-W2_Wsc=0.9um-NNE_WFS07_slopes.ini 0field-offset-tests_new-gate-keithley",
+    "args": {
+        "config_path": "configs/JS633-W2_Wsc=0.9um-NNE_WFS07_slopes.ini",
+        "config_section": "0field-offset-tests_new-gate-keithley",
+        "branch": "+-",
+        "offset_npoints": null,
+        "force_write": true,
+        "debug": false
+    }
+}

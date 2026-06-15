@@ -1,0 +1,2 @@
+gate,delta_slope,delta_slope_err,delta_yint,delta_yint_err,eta_slope,eta_slope_err,eta_yint,eta_yint_err,path,blim,quiet
+-2.0,3.2500787169857718e-06,1.0170797493936701e-07,-6.768424394885133e-10,1.4153575119755995e-09,0.4005196895995262,0.012530275492884702,-9.109885261953961e-05,0.00017378335750073507,../data/processed/centermax/JS633-W2_Wsc=0.9um-ENE_WFS06_slopes/diode-lowfield_-2.0V/data.csv,0.02,True

@@ -1,0 +1,12 @@
+{
+    "git_commit": "f693feb",
+    "command": "centermax.py -f configs/JS633-W2_Wsc=0.9um-NNE_WFS07_slopes.ini 0field-offset-tests_no-amp",
+    "args": {
+        "config_path": "configs/JS633-W2_Wsc=0.9um-NNE_WFS07_slopes.ini",
+        "config_section": "0field-offset-tests_no-amp",
+        "branch": "+-",
+        "offset_npoints": null,
+        "force_write": true,
+        "debug": false
+    }
+}

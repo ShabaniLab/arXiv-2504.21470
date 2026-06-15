@@ -1,0 +1,21 @@
+[[Model]]
+    Model(icpm_model)
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 21
+    # data points      = 22
+    # variables        = 3
+    chi-square         = 8.3456e-15
+    reduced chi-square = 4.3924e-16
+    Akaike info crit   = -775.177904
+    Bayesian info crit = -771.904777
+    R-squared          = 0.98788219
+[[Variables]]
+    imax:   3.996704e-06 (fixed)
+    b:      30.6753195 +/- 0.98827790 (3.22%) (init = 25)
+    c:     -0.32823004 +/- 0.06419070 (19.56%) (init = 0)
+    bstar: -0.00390737 +/- 0.00187832 (48.07%) (init = 0)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(c, bstar) = +0.9633
+    C(b, bstar) = -0.8311
+    C(b, c)     = -0.7931

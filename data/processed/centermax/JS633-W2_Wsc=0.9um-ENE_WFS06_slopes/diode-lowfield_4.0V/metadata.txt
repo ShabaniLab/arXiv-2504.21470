@@ -1,0 +1,12 @@
+{
+    "git_commit": "9bae589",
+    "command": "centermax.py -f configs/JS633-W2_Wsc=0.9um-ENE_WFS06_slopes.ini diode-lowfield_4.0V",
+    "args": {
+        "config_path": "configs/JS633-W2_Wsc=0.9um-ENE_WFS06_slopes.ini",
+        "config_section": "diode-lowfield_4.0V",
+        "branch": "+-",
+        "offset_npoints": null,
+        "force_write": true,
+        "debug": false
+    }
+}

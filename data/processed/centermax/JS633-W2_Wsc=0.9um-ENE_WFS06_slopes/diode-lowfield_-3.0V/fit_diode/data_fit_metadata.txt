@@ -1,0 +1,17 @@
+{
+    "git_commit": "a64784c",
+    "command": "/home/wfsch/repos/shabanipy/scripts//jj/fit_diode.py ../data/processed/centermax/JS633-W2_Wsc=0.9um-ENE_WFS06_slopes/diode-lowfield_-3.0V/data.csv --quiet --remove-zero-field-offset --icp_err_col=rmse+ --icm_err_col=rmse-",
+    "args": {
+        "datapath": "../data/processed/centermax/JS633-W2_Wsc=0.9um-ENE_WFS06_slopes/diode-lowfield_-3.0V/data.csv",
+        "bcol": null,
+        "icp_col": "ic+ from fit",
+        "icm_col": "ic- from fit",
+        "icp_err_col": "rmse+",
+        "icm_err_col": "rmse-",
+        "bmax": 0.15,
+        "bmask": null,
+        "invert_current": false,
+        "remove_zero_field_offset": true,
+        "quiet": true
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "git_commit": "ac71535",
+    "command": "centermax.py configs/JS633-W2_Wsc=0.9um-NNE_WFS07_slopes.ini 0field-offset-tests_+500mT-polarization",
+    "args": {
+        "config_path": "configs/JS633-W2_Wsc=0.9um-NNE_WFS07_slopes.ini",
+        "config_section": "0field-offset-tests_+500mT-polarization",
+        "branch": "+-",
+        "offset_npoints": null,
+        "force_write": false,
+        "debug": false
+    }
+}

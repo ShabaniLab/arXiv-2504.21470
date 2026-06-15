@@ -1,0 +1,21 @@
+[[Model]]
+    Model(threetheta_model)
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 25
+    # data points      = 25
+    # variables        = 5
+    chi-square         = 2.25222094
+    reduced chi-square = 0.11261105
+    Akaike info crit   = -50.1739753
+    Bayesian info crit = -44.0795962
+    R-squared          = -11441.9148
+[[Variables]]
+    a0: -9.3194e-04 +/- 2.1064e-05 (2.26%) (init = -0.000825766)
+    a1:  0.00386876 +/- 2.8317e-05 (0.73%) (init = 0.004119978)
+    a3:  8.6723e-04 +/- 2.8225e-05 (3.25%) (init = 0)
+    φ1:  17.0379718 +/- 0.45735750 (2.68%) (init = 0)
+    φ3: -7.67800618 +/- 2.06535855 (26.90%) (init = 0)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(a0, a3) = +0.1317
+    C(a0, φ1) = -0.1151

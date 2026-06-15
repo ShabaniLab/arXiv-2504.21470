@@ -1,0 +1,2 @@
+imax,b,c,bstar,imax_err,b_err,c_err,bstar_err,ndata,chisqr,redchi,rsquared,datapath,bcol,icp_col,icm_col,icp_err_col,icm_err_col,bmax,bmask,invert_current,remove_zero_field_offset,quiet
+3.3653045953543897e-06,37.156961669563636,-0.2787456864861432,-0.008060547068014897,0.0,0.7396203483820373,0.036741784857468776,0.0007885168953001408,42,3.2240310395140044e-15,8.266746255164114e-17,0.992446783349219,../data/processed/centermax/JS633-W2_Wsc=0.9um-NNE_WFS07_slopes/diode-lowfield_-3.6V/data.csv,,ic+ from fit,ic- from fit,rmse+,rmse-,0.15,,False,True,True

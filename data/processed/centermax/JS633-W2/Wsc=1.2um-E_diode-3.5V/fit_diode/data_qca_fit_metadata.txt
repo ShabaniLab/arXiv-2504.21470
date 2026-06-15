@@ -1,0 +1,15 @@
+{
+    "git_commit": "4b07f87",
+    "command": "fit_diode.py /home/wfsch/repos/diode-paper/data/processed/centermax/JS633-W2/Wsc=1.2um-E_diode-3.5V/data_qca.csv --quiet --icp_err_col=rmse+ --icm_err_col=rmse- --bmax 0.095",
+    "args": {
+        "datapath": "/home/wfsch/repos/diode-paper/data/processed/centermax/JS633-W2/Wsc=1.2um-E_diode-3.5V/data_qca.csv",
+        "bcol": null,
+        "icp_col": "ic+ from fit",
+        "icm_col": "ic- from fit",
+        "icp_err_col": "rmse+",
+        "icm_err_col": "rmse-",
+        "bmax": 0.095,
+        "bmask": null,
+        "quiet": true
+    }
+}
