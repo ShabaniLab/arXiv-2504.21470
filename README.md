@@ -1,4 +1,6 @@
 # arXiv:2504.21470
+[![DOI](https://zenodo.org/badge/1267749121.svg)](https://doi.org/10.5281/zenodo.20707782)
+
 Figures and analysis for [arXiv:2504.21470](https://arxiv.org/abs/2504.21470)
 
 ## Running the data analysis
