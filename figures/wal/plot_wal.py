@@ -101,4 +101,4 @@ for ax, res in zip(axs, (rxx, ryy)):
         va="bottom",
     )
 axs[0].set_ylim((-0.2, 8.05))
-fig.savefig("wal2.pdf")
+fig.savefig("wal2_unlabeled.pdf")
